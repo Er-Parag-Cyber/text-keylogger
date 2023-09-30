@@ -1,5 +1,6 @@
-# Live_teams
-![Screenshot (14)](https://github.com/Er-Parag-Cyber/text-keylogger/assets/62016806/e8249437-bfce-4c38-8c1b-96df822a7d02)
+# Keylogger
+
+![Screenshot (14)](https://github.com/Er-Parag-Cyber/text-keylogger/assets/62016806/84372134-d64d-4acb-b19b-9983e26c436f)
 
 
 
