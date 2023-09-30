@@ -1,9 +1,5 @@
 # Keylogger
 
-![Screenshot (14)](https://github.com/Er-Parag-Cyber/text-keylogger/assets/62016806/84372134-d64d-4acb-b19b-9983e26c436f)
-
-
-
 <h1>USING operating system </h1>
 
 
@@ -40,6 +36,10 @@ Download & install
      git clone https://github.com/Er-Parag-Cyber/text-keylogger.git
      cd text-keylogger
      python keylogger.py
+
+
+![Screenshot (14)](https://github.com/Er-Parag-Cyber/text-keylogger/assets/62016806/84372134-d64d-4acb-b19b-9983e26c436f)
+
 
 
 
