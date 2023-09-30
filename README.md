@@ -1,4 +1,6 @@
 # Live_teams
+![Screenshot (14)](https://github.com/Er-Parag-Cyber/text-keylogger/assets/62016806/e8249437-bfce-4c38-8c1b-96df822a7d02)
+
 
 
 <h1>USING operating system </h1>
@@ -10,7 +12,11 @@
 <h>
   
 1.Windows
+
 2.Linux
+
+
+
 ........................................................
 
 <h>
