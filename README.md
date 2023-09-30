@@ -12,17 +12,12 @@
                                                               
 <h>
   
-1.Windows
-
-2.Linux
-
-
+Windows
 
 ........................................................
 
 <h>
   
-sudo apt-get update
 
  * [Prerequisites](#bangbang-prerequisites)
 
@@ -41,6 +36,7 @@ Download & install
 
  **Type This Command To The Terminal**:   
      
+     sudo apt-get update
      git clone https://github.com/Er-Parag-Cyber/text-keylogger.git
      cd text-keylogger
      python keylogger.py
