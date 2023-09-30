@@ -7,7 +7,7 @@ print(f.renderText('keylogger v0.1'))
 print('                                                                       by Parag Bhangale \n')
 print('       ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀')
 print("                           hack3r blog 0.1 - by Parag Bhangale [hack3r]")
-print("                           https://hack3r1.blogspot.com/ | hack3r")
+print("                           https://github.com/Er-Parag-Cyber | hack3r")
 print(
     "         keylogger is a simple and light tool for capture the keys generate the log")
 print("\n")
