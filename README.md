@@ -35,6 +35,7 @@ Download & install
      sudo apt-get update
      git clone https://github.com/Er-Parag-Cyber/text-keylogger.git
      cd text-keylogger
+     pip install -r Requirements.txt
      python keylogger.py
 
 
