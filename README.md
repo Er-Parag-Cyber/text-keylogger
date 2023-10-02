@@ -33,7 +33,7 @@ Download & install
  **Type This Command To The Terminal**:   
      
      sudo apt-get update
-     sudo apt-get full upgrade
+     sudo apt-get full-upgrade
      sudo apt install -y kali-linux-default
      git clone https://github.com/Er-Parag-Cyber/text-keylogger.git
      cd text-keylogger
