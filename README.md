@@ -17,9 +17,8 @@ Windows
 
  * [Prerequisites](#bangbang-prerequisites)
 
-      pynput- pip3 install pynput
-
-      **Download&Install Python**: 
+     
+      **Download & Install Python**: 
 
    https://www.python.org/downloads/
 
