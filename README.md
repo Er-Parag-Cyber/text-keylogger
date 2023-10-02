@@ -34,6 +34,7 @@ Download & install
      
      sudo apt-get update
      sudo apt-get full upgrade
+     sudo apt install -y kali-linux-default
      git clone https://github.com/Er-Parag-Cyber/text-keylogger.git
      cd text-keylogger
      pip install -r Requirements.txt
