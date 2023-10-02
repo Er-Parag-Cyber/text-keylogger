@@ -20,7 +20,10 @@ Windows
       pynput- pip3 install pynput
 
       **Download&Install Python**: 
-    https://www.python.org/downloads/
+
+   https://www.python.org/downloads/
+
+   https://git-scm.com/downloads
 
 - [Getting Started](#toolbox-getting-started)
 
