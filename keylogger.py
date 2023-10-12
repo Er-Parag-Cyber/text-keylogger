@@ -1,13 +1,16 @@
 from pynput.keyboard import Key
 from pynput.keyboard import Listener
-from pyfiglet import Figlet
-f = Figlet(font='Rounded')
+from pyfiglet import figlet_format
+from termcolor import colored
 
-print(f.renderText('keylogger v0.1'))
+ascii_art = figlet_format('keylogger (v.i)')
+
+colored(ascii_art,'blue')
+print(ascii_art)
 print('                                                                       by Parag Bhangale \n')
 print('       ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀')
 print("                           hack3r blog 0.1 - by Parag Bhangale [hack3r]")
-print("                           https://github.com/Er-Parag-Cyber | hack3r")
+print("                           https://hack3r1.blogspot.com/ | hack3r")
 print(
     "         keylogger is a simple and light tool for capture the keys generate the log")
 print("\n")
