@@ -24,7 +24,7 @@ Windows
 
    https://git-scm.com/downloads
 
-- [Getting Started](#toolbox-getting-started)
+- Getting Started
 
 
 ## Windows Installation
