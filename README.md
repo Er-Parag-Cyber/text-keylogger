@@ -15,7 +15,7 @@ Windows
 <h>
   
 
- * [Prerequisites](#bangbang-prerequisites)
+ * Prerequisites
 
      
       **Download & Install Python**: 
